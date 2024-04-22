@@ -84,7 +84,12 @@ public class Keka_Actions {
     public void sampleMethod3(){
         System.out.println("Method3");
     }
-
+    public void sampleMethod4(){
+        System.out.println("Method4"); //made some changes in branch
+    }
+    public void sampleMethod5(){
+        System.out.println("Method5"); //made some changes in branch
+    }
 
 }
 
