@@ -78,6 +78,12 @@ public class Keka_Actions {
     public void sampleMethod1(){
         System.out.println("Method1");
     }
+    public void sampleMethod2(){
+        System.out.println("Method2");
+    }
+    public void sampleMethod3(){
+        System.out.println("Method3");
+    }
 
 
 }

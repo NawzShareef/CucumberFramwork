@@ -9,7 +9,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52b2c7ec-425a-415e-8748-120d503f822f" name="Changes" comment="Updated in Keka_Steps.java">
-      <change beforePath="$PROJECT_DIR$/CucumberFramwork" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/actions/Keka_Actions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
